@@ -1,0 +1,57 @@
+{
+  "rows": 4000,
+  "overall_ctr": 0.1715,
+  "overall_conversion_rate_clickers": 0.1837,
+  "total_cost": 7009.21,
+  "total_revenue": 9065.21,
+  "overall_roi": 0.2933,
+  "best_channel_by_roi": "Email",
+  "best_channel_roi": 1.1144,
+  "variant_A_conv_rate": 0.1713,
+  "variant_B_conv_rate": 0.197,
+  "ab_chi2": 0.5886,
+  "ab_p_value": 0.4429466248596796,
+  "ab_significant_0_05": false,
+  "channel_table": {
+    "Display": {
+      "impressions": 617,
+      "clicks": 51,
+      "conversions": 4,
+      "cost": 1060.48,
+      "revenue": 295.24,
+      "ctr": 0.0827,
+      "conversion_rate": 0.0784,
+      "roi": -0.7216
+    },
+    "Email": {
+      "impressions": 1236,
+      "clicks": 275,
+      "conversions": 64,
+      "cost": 2169.26,
+      "revenue": 4586.75,
+      "ctr": 0.2225,
+      "conversion_rate": 0.2327,
+      "roi": 1.1144
+    },
+    "Search": {
+      "impressions": 957,
+      "clicks": 184,
+      "conversions": 32,
+      "cost": 1695.29,
+      "revenue": 2183.9,
+      "ctr": 0.1923,
+      "conversion_rate": 0.1739,
+      "roi": 0.2882
+    },
+    "Social": {
+      "impressions": 1190,
+      "clicks": 176,
+      "conversions": 26,
+      "cost": 2084.18,
+      "revenue": 1999.32,
+      "ctr": 0.1479,
+      "conversion_rate": 0.1477,
+      "roi": -0.0407
+    }
+  }
+}
